@@ -1,0 +1,7 @@
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .css-2zwj5t-MuiPaper-root-MuiDialog-paper{
+    max-width:70% !important;
+  }

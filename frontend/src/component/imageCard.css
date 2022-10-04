@@ -1,0 +1,12 @@
+
+ .imageCardDiv{
+    text-shadow: 2px 5px 6px rgb(90, 54, 54);
+ }
+
+@media only screen and (max-width:450px){
+    .imageCardDiv{
+       justify-items: center;
+       margin-left: 40px ;
+      font-size: 40px !important;
+    }
+}
